@@ -1,0 +1,1 @@
+For now I'm just using this as a place to get my thoughts out about how the data model should work and how things connect. This may become a more formal set of docs as things progress, I'd like to try AI-generating docs based on code.
