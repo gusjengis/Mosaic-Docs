@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="KRLkLjiaW8o1SABRgdxp">
-    <mxGraphModel>
+    <mxGraphModel dx="3346" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Hp1UzzyTilYVBDg6mM4--1" value="DB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp1UzzyTilYVBDg6mM4--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hp1UzzyTilYVBDg6mM4--2" target="Hp1UzzyTilYVBDg6mM4--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp1UzzyTilYVBDg6mM4--2" value="Backend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp1UzzyTilYVBDg6mM4--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hp1UzzyTilYVBDg6mM4--3" target="Hp1UzzyTilYVBDg6mM4--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp1UzzyTilYVBDg6mM4--3" value="Android" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp1UzzyTilYVBDg6mM4--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hp1UzzyTilYVBDg6mM4--4" target="Hp1UzzyTilYVBDg6mM4--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp1UzzyTilYVBDg6mM4--4" value="Wear OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp1UzzyTilYVBDg6mM4--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hp1UzzyTilYVBDg6mM4--5" target="Hp1UzzyTilYVBDg6mM4--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp1UzzyTilYVBDg6mM4--5" value="Logger-Android" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp1UzzyTilYVBDg6mM4--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hp1UzzyTilYVBDg6mM4--6" target="Hp1UzzyTilYVBDg6mM4--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp1UzzyTilYVBDg6mM4--6" value="Hub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp1UzzyTilYVBDg6mM4--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hp1UzzyTilYVBDg6mM4--7" target="Hp1UzzyTilYVBDg6mM4--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp1UzzyTilYVBDg6mM4--7" value="Logger-Hyprland" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp1UzzyTilYVBDg6mM4--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hp1UzzyTilYVBDg6mM4--8" target="Hp1UzzyTilYVBDg6mM4--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp1UzzyTilYVBDg6mM4--8" value="Snitch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
